@@ -5,7 +5,7 @@
 ## Usage
 
 ```puppet
-#installs the default version 1.3.0.0
+#installs the current stable version (1.3.0.0)
 include royaltsx
 
 #install a specific version
@@ -17,9 +17,4 @@ class {'royaltsx':
 ## Required Puppet Modules
 
 * `boxen`
-* `std-lib
-
-## Development
-
-Then write some code. Run `script/cibuild` to test it. Check the `script`
-directory for other useful tools.
+* `std-lib`
