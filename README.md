@@ -1,6 +1,6 @@
 # RoyalTSX
 
-[![Build Status](https://travis-ci.org/boxen/puppet-template.png?branch=master)](https://travis-ci.org/boxen/puppet-template)
+[![Build Status](https://travis-ci.org/stack72/puppet-royaltsx.png?branch=master)](https://travis-ci.org/stack72/puppet-royaltsx)
 
 ## Usage
 
